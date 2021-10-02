@@ -6,6 +6,11 @@ I'm Juan M. Cortéz, a Developer from Argentina. I'm a:
 
 Do you have a project? Contact me!
 
+## Contact
+- [www.bbxdevs.com](https://www.bbxdevs.com)
+- [@juanmcortez](https://www.linkedin.com/in/juanmcortez/) on LinkedIn
+- [juanbbxdevs](./) on Discord
+
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=juanbbxdevs&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbbxdevs&hide=TeX&layout=compact)
@@ -20,8 +25,3 @@ Do you have a project? Contact me!
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-## Contact
-- [www.bbxdevs.com](https://www.bbxdevs.com)
-- [@juanmcortez](https://www.linkedin.com/in/juanmcortez/) on LinkedIn
-- [juanbbxdevs](./) on Discord

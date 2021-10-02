@@ -8,7 +8,7 @@ Do you have a project? Contact me!
 
 ## Contact
 - [www.bbxdevs.com](https://www.bbxdevs.com)
-- [@juanmcortez](https://www.linkedin.com/in/juanmcortez/) on LinkedIn
+- [juanmcortez](https://www.linkedin.com/in/juanmcortez/) on LinkedIn
 - [juanbbxdevs](./) on Discord
 
 ## Stats

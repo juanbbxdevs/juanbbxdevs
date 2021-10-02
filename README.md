@@ -1,8 +1,10 @@
 ## Hey! 👋
-I'm Juan M. Cortéz, a Developer from Argentina.
+I'm Juan M. Cortéz, a Developer from Argentina. I'm a:
 
 - 🧭 Project Manager & Developer at [@bbxdevs](https://github.com/bbxdevs) and [@juanbbxdevs](https://github.com/juanbbxdevs)
 - 👥 Core Team member at [@bbxdevs](https://www.bbxdevs.com)
+
+Do you have a project? Contact me!
 
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=juanbbxdevs&count_private=true&show_icons=true&include_all_commits=true)

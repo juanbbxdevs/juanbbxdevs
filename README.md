@@ -57,10 +57,10 @@ Do you have a project? Contact me!
 ![VSCode](https://img.shields.io/badge/-VSCode-444c56?style=flat-square&logoColor=white&logo=visualstudiocode)
 ![Atom](https://img.shields.io/badge/-Atom-444c56?style=flat-square&logoColor=white&logo=atom)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-444c56?style=flat-square&logoColor=white&logo=phpstorm)
-![Nextcloud](https://img.shields.io/badge/-Nextcloud-444c56?style=flat-square&logoColor=white&logo=nextcloud)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-444c56?style=flat-square&logoColor=white&logo=phpmyadmin)
 
 
 ![Discord](https://img.shields.io/badge/-Discord-444c56?style=flat-square&logoColor=white&logo=discord)
 ![Skype](https://img.shields.io/badge/-Skype-444c56?style=flat-square&logoColor=white&logo=skype)
+![Nextcloud](https://img.shields.io/badge/-Nextcloud-444c56?style=flat-square&logoColor=white&logo=nextcloud)
 ![TeamViewer](https://img.shields.io/badge/-TeamViewer-444c56?style=flat-square&logoColor=white&logo=teamViewer)

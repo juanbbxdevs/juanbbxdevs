@@ -58,7 +58,7 @@ Do you have a project? Contact me!
 ![Atom](https://img.shields.io/badge/-Atom-444c56?style=flat-square&logoColor=white&logo=atom)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-444c56?style=flat-square&logoColor=white&logo=phpstorm)
 ![Nextcloud](https://img.shields.io/badge/-Nextcloud-444c56?style=flat-square&logoColor=white&logo=nextcloud)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-444c56?style=flat-square&logoColor=white&logo=phpMyAdmin)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-444c56?style=flat-square&logoColor=white&logo=phpmyadmin)
 
 
 ![Discord](https://img.shields.io/badge/-Discord-444c56?style=flat-square&logoColor=white&logo=discord)

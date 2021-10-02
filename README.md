@@ -34,3 +34,6 @@ Do you have a project? Contact me!
 
 ![HTML5](https://img.shields.io/badge/-HTML5-444c56?style=flat-square&logoColor=white&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-444c56?style=flat-square&logoColor=white&logo=css3)
+
+![Linux Servers](https://img.shields.io/badge/-Linux Servers-444c56?style=flat-square&logoColor=white&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-444c56?style=flat-square&logoColor=white&logo=ubuntu)

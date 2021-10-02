@@ -8,8 +8,8 @@ Do you have a project? Contact me!
 
 ## Contact
 - [www.bbxdevs.com](https://www.bbxdevs.com)
+- [juan.bbxdevs#2689](./) on Discord
 - [juanmcortez](https://www.linkedin.com/in/juanmcortez/) on LinkedIn
-- [juanbbxdevs](./) on Discord
 
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=juanbbxdevs&count_private=true&show_icons=true&include_all_commits=true)

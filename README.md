@@ -50,7 +50,7 @@ Do you have a project? Contact me!
 
 ![Let’s Encrypt](https://img.shields.io/badge/-Let%E2%80%99s%20Encrypt-444c56?style=flat-square&logoColor=white&logo=letsencrypt)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-444c56?style=flat-square&logoColor=white&logo=googleanalytics)
-![Google Console Search](https://img.shields.io/badge/-Google%20Console%20Search-444c56?style=flat-square&logoColor=white&logo=googleconsolesearch)
+![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-444c56?style=flat-square&logoColor=white&logo=googlesearchconsole)
 
 
 ![Postman](https://img.shields.io/badge/-Postman-444c56?style=flat-square&logoColor=white&logo=postman)

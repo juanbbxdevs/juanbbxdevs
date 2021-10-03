@@ -1,15 +1,15 @@
 ## Hey! 👋 This is **Juan M. Cortéz**
-<p>I'm a Developer from *Córdoba, Argentina* and I have been in the industry of *software* for the last **15 years** ... it never gets old and I :heart: it!</p>
+I'm a Developer from *Córdoba, Argentina* and I have been in the industry of *software* for the last **15 years** ... it never gets old and I :heart: it!
 
-<p>I currently work as:</p>
+I currently work as:
 
 - 🧭 **Project Manager** & **Developer** at [@bbxdevs](https://github.com/bbxdevs) and [@juanbbxdevs](https://github.com/juanbbxdevs)
 - 👥 Team leader at [@bbxdevs](https://www.bbxdevs.com)
 
-<p>Do you have a project? Let's get in touch! *Contact me* using one of the following options:</p>
+Do you have a project? Let's get in touch! *Contact me* using one of the following options:
 
 ## Contact
-[![Website Badge](https://img.shields.io/badge/-BBXDevs%20Website-444c56?style=flat-square&logo=firefox&logoColor=white&link=https://www.bbxdevs.com)](https://www.bbxdevs.com) [![Linkedin Badge](https://img.shields.io/badge/-juanmcortez-444c56?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmcortez/)](https://www.linkedin.com/in/juanmcortez/) [![Discord](https://img.shields.io/badge/-Discord-444c56?style=flat-square&logoColor=white&logo=discord&link=https://discordapp.com/users/885884198089551892)](https://discordapp.com/users/885884198089551892) [![Github Badge](https://img.shields.io/badge/-juanbbxdevs-444c56?style=flat-square&logo=github&logoColor=white&link=https://github.com/juanbbxdevs/)](https://www.github.com/juanbbxdevs/)
+[![Website Badge](https://img.shields.io/badge/-BBXDevs%20Website-444c56?style=flat-square&logo=firefox&logoColor=white&link=https://www.bbxdevs.com)](https://www.bbxdevs.com) [![Linkedin Badge](https://img.shields.io/badge/-juanmcortez-444c56?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmcortez/)](https://www.linkedin.com/in/juanmcortez/) [![Discord](https://img.shields.io/badge/-Discord-444c56?style=flat-square&logoColor=white&logo=discord&link=https://discordapp.com/users/885884198089551892)](https://discordapp.com/users/885884198089551892) [![Github Badge](https://img.shields.io/badge/-bbxdevs-444c56?style=flat-square&logo=github&logoColor=white&link=https://github.com/bbxdevs/)](https://www.github.com/bbxdevs/) [![Github Badge](https://img.shields.io/badge/-juanbbxdevs-444c56?style=flat-square&logo=github&logoColor=white&link=https://github.com/juanbbxdevs/)](https://www.github.com/juanbbxdevs/)
 
 
 ## Some of my skills

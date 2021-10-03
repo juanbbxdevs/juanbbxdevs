@@ -1,15 +1,16 @@
-## Hey! 👋
-I'm *Juan M. Cortéz* a Developer from Córdoba, Argentina. I'm a:
+## Hey! 👋 This is **Juan M. Cortéz**
+<p>I'm a Developer from *Córdoba, Argentina* and I have been in the industry of *software* for the last **15 years** ... it never gets old and I :heart: it!</p>
+
+<p>I currently work as:</p>
 
 - 🧭 **Project Manager** & **Developer** at [@bbxdevs](https://github.com/bbxdevs) and [@juanbbxdevs](https://github.com/juanbbxdevs)
-- 👥 Core Team member at [@bbxdevs](https://www.bbxdevs.com)
+- 👥 Team leader at [@bbxdevs](https://www.bbxdevs.com)
 
-Do you have a project? *Contact me!*
+<p>Do you have a project? Let's get in touch! *Contact me* using one of the following options:</p>
 
 ## Contact
-- [www.bbxdevs.com](https://www.bbxdevs.com)
-- **juan.bbxdevs#2689** on Discord
-- [juanmcortez](https://www.linkedin.com/in/juanmcortez/) on LinkedIn
+[![Website Badge](https://img.shields.io/badge/-BBXDevs%20Website-444c56?style=flat-square&logo=firefox&logoColor=white&link=https://www.bbxdevs.com)](https://www.bbxdevs.com) [![Linkedin Badge](https://img.shields.io/badge/-juanmcortez-444c56?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmcortez/)](https://www.linkedin.com/in/juanmcortez/) [![Discord](https://img.shields.io/badge/-Discord-444c56?style=flat-square&logoColor=white&logo=discord&link=https://discordapp.com/users/885884198089551892)](https://discordapp.com/users/885884198089551892) [![Github Badge](https://img.shields.io/badge/-juanbbxdevs-444c56?style=flat-square&logo=github&logoColor=white&link=https://github.com/juanbbxdevs/)](https://www.github.com/juanbbxdevs/)
+
 
 ## Some of my skills
 ![Git](https://img.shields.io/badge/-Git-444c56?style=flat-square&logoColor=white&logo=git)
@@ -31,6 +32,7 @@ Do you have a project? *Contact me!*
 ![PHP](https://img.shields.io/badge/-PHP-444c56?style=flat-square&logoColor=white&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-444c56?style=flat-square&logoColor=white&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-444c56?style=flat-square&logoColor=white&logo=mariadb)
+![Curl](https://img.shields.io/badge/-curl-444c56?style=flat-square&logoColor=white&logo=curl)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-444c56?style=flat-square&logoColor=white&logo=html5)
@@ -62,5 +64,5 @@ Do you have a project? *Contact me!*
 ![TeamViewer](https://img.shields.io/badge/-TeamViewer-444c56?style=flat-square&logoColor=white&logo=teamViewer)
 
 ## Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=juanbbxdevs&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbbxdevs&layout=compact)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=juanbbxdevs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/juanbbxdevs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbbxdevs&layout=compact)](https://github.com/juanbbxdevs/github-readme-stats)

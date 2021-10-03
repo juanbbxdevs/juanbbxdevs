@@ -11,10 +11,6 @@ Do you have a project? Contact me!
 - [juan.bbxdevs#2689](./) on Discord
 - [juanmcortez](https://www.linkedin.com/in/juanmcortez/) on LinkedIn
 
-## Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=juanbbxdevs&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbbxdevs&hide=TeX&layout=compact)
-
 ## Some of my skills
 ![Git](https://img.shields.io/badge/-Git-444c56?style=flat-square&logoColor=white&logo=git)
 ![Github](https://img.shields.io/badge/-GitHub-444c56?style=flat-square&logoColor=white&logo=github)
@@ -64,3 +60,7 @@ Do you have a project? Contact me!
 ![Skype](https://img.shields.io/badge/-Skype-444c56?style=flat-square&logoColor=white&logo=skype)
 ![Nextcloud](https://img.shields.io/badge/-Nextcloud-444c56?style=flat-square&logoColor=white&logo=nextcloud)
 ![TeamViewer](https://img.shields.io/badge/-TeamViewer-444c56?style=flat-square&logoColor=white&logo=teamViewer)
+
+## Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=juanbbxdevs&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbbxdevs&hide=TeX&layout=compact)
